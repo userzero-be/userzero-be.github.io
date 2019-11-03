@@ -1,0 +1,12 @@
+{
+  "name": "userzero.be",
+  "version": "1.0.0",
+  "description": "UserZero website",
+  "main": "index.js",
+  "repository": "git@github.com:userzero-be/userzero-be.github.io.git",
+  "author": "maxime@userzero.be",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^0.11.1"
+  }
+}
